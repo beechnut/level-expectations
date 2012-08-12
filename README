@@ -1,0 +1,20 @@
++
++ Level Expectations
++
++ The App That Keeps Things In Perspective
++
+
+Features
+	o Add events to a timeline and see how your cumulative happiness looks.
+
+Functionality to come:
+	+ Saving events for continuity, an essential function.
+	+ Comparison of the last input event to similarly-valued events,
+	  keeping your entries in perspective.
+	+ Scaling on y-axis.
+	+ Adding a specific date and time.
+	+ The ability to remove events.
+	+ Hovering over an event shows its details.
+	+ Validation required for fields.
+	+ Inspiration.
+	+ Display of good events in downward trends to remind you of how to get happy.
