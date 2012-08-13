@@ -4,17 +4,37 @@
 + The App That Keeps Things In Perspective
 +
 
-Features
+=== TO INSTALL ===
+
+1. Download Shoes for your OS from http://shoesrb.com/downloads
+2. Download the files in this repository into a folder of your choosing.
+3. a. Open Shoes and open level_one.rb, or  
+   b. if you're in Mac OS X, drag Shoes.app into your Dock, then drag level_one.rb into your doc.
+   
+=== TO USE ===
+
+1. Type a life event into the "name" field. Type a score into "value".
+   If it's a happy event, type a positive score. If it's a REALLY happy event, use
+   a higher positive score. Bad events are negative.
+2. Click "Add" to add it to your timeline.
+3. Keep adding life events whenever they happen.
+4. Click "Save" to save your events.
+5. When you close out and open up Level Expectations again, click "Load" and you'll have all your progress saved.
+
+=== Features ===
+
 	o Add events to a timeline and see how your cumulative happiness looks.
 	o Saving events for continuity, an essential function.
 	o Comparison of the last input event to similarly-valued events,
 	  keeping your entries in perspective.
 
-Functionality to come:
+==== To come ===
+
+	+ A pleasant aesthetic / actual focus on UX.
 	+ Scaling on y-axis.
 	+ Adding a specific date and time.
 	+ The ability to remove events.
 	+ Hovering over an event shows its details.
 	+ Validation required for fields.
 	+ Inspiration.
-	+ Display of good events in downward trends to remind you of how to get happy.
+	+ Display of good events during downward trends to remind you of how to get happy.

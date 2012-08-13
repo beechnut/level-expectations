@@ -208,12 +208,12 @@ Shoes.app :width => 1000, :height => 660 do
 	end
 	
 	@comparison = stack :width => 400 do
-		background "#6F6"
+		background "#6F6", :curve => 20
 		para "Comparisons to other events appear here."
 	end
 	
 	@inspector = stack :width => 400 do
-		background "#FF6"
+		background "#FF6", :curve => 20
 		para "Inspector"
 	end
 
