@@ -6,11 +6,11 @@
 
 Features
 	o Add events to a timeline and see how your cumulative happiness looks.
+	o Saving events for continuity, an essential function.
+	o Comparison of the last input event to similarly-valued events,
+	  keeping your entries in perspective.
 
 Functionality to come:
-	+ Saving events for continuity, an essential function.
-	+ Comparison of the last input event to similarly-valued events,
-	  keeping your entries in perspective.
 	+ Scaling on y-axis.
 	+ Adding a specific date and time.
 	+ The ability to remove events.
